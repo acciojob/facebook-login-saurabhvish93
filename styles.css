@@ -7,7 +7,7 @@ body {
 	height: 100vh;
 	
 }
-#left {
+.left {
 	width: 450px; 
 	margin-top: 70px;
 	display: inline-block;
@@ -18,7 +18,7 @@ body {
 	 height: 50px; 
 	width: 450 px;
 }
-#right {
+.right {
 	display: flex;
 	flex-direction: column;
    
