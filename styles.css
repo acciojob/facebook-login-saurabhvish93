@@ -14,7 +14,7 @@ body {
 	text-align: center;
 	padding: 40px;
 }
-.left-img {
+.left img {
 	 height: 50px; 
 	width: 200px;
 }
@@ -65,5 +65,4 @@ body {
 	border: none;
 	width: 300px;
 	margin-left: 20px;
-	
 }
